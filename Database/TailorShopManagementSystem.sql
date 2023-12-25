@@ -1,7 +1,6 @@
 create database tailor_shop_management_system
 
-
-
+	
 CREATE TABLE Customer (
     CustomerID INT AUTO_INCREMENT PRIMARY KEY,
     Name VARCHAR(100),
@@ -18,6 +17,9 @@ CREATE TABLE User (
     Email VARCHAR(100),
     Password VARCHAR(25)
 ) AUTO_INCREMENT = 100001;
+
+INSERT INTO User (UserName, Email, Password)
+VALUES ('user', 'someone@example.com', '12345');
 
 
 
