@@ -43,7 +43,7 @@ Follow the steps outlined below:
 - **Import all the provided libraries into the project.**
 
 ### To create the Databese:
-- **Execute the provided "MedicinePrescribingSystem.sql" file in your MySQL server.**
+- **Execute the provided "TailorShopManagementSystem.sql" file in your MS SQL server.**
 
 ### Databese Connection:
 - **Connect the newly created database to my project in the IDE.**
@@ -53,7 +53,7 @@ Follow the steps outlined below:
 - **Activate the 'Allow less secure apps' option for your email account in your browser by going to 'Manage your account' => 'Security' => 'Less secure app access'.**
 
 ### Configure a recipient email ID:
-- **Execute the project and sign in using the username 'user' and password '12345', and navigate to 'Personal Info.'**
-- **Configure the recipient email ID, replacing 'doctor@example.com,' and save the changes by pressing the 'Save' button.**
+- **Execute the project and sign in using the username 'user' and password '12345', and navigate to 'Information Panel' then 'Admin Profile'.**
+- **Configure the recipient email ID, replacing 'someone@example.com,' and save the changes by pressing the 'Update' button.**
 
 Now, my project is all set to launch and make waves.
