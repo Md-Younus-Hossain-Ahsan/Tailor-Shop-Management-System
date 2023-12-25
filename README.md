@@ -1,7 +1,7 @@
-# Medicine Prescribing System
+# Tailor Shop Management System
 
 ## Short Description
-The Medicine Prescribing System is a Java-based application that facilitates doctors in prescribing and managing medications for patients. It provides a user-friendly interface for doctors to store commonly prescribed medicines and tests, along with patient details and their prescription history.
+The **Tailor Shop Management System** is a Java-based application is like a smart system for a tailor shop. It keeps things organized and safe. It holds details about customers, dresses, when things need to be delivered, and transactions – making everything easy to handle.
 
 ## Overview
 Please watch this video: https://drive.google.com/file/d/1Xsr3drnnFZACExFfkL-gwTJWxKfVJSZZ/view?usp=sharing 
